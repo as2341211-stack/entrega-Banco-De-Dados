@@ -4,10 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-  "dev": "tsx watch src/index.ts",
+   "dev": "tsx watch src/server.ts",
   "build": "tsc",
-  "start": "node dist/index.js"
-},
+  "start": "node dist/server.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/as2341211-stack/entrega-Banco-De-Dados.git"
